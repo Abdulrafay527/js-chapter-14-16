@@ -156,6 +156,25 @@
 
 
 
+// // Initialize an array with city names
+// let cities = ["karachi", "peshawar","quetta", "islamabad", "lahore"];
+
+// // Copy 3 elements from cities to selectedCities
+// // Example: Copying the first 3 elements
+// let selectedCities = cities.slice(0, 3);
+
+// // Display the result
+// console.log("All Cities:", cities);
+// console.log("Selected Cities:", selectedCities);
+
+
+
+// var arr = ["This", "is", "my", "cat"];
+
+// var sentence = arr.join(" ");
+
+// console.log(sentence);
+
 
 
 
