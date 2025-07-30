@@ -155,6 +155,88 @@
 // console.log("Sorted student scores (ascending):", studentScores);
 
 
+// var colorName = ["red" , "yellow" , "green"]
+
+// var color = prompt("What color you wants to add to the beginning") 
+
+// colorName.unshift(color)
+
+// console.log(colorName);
+
+
+// var colorName = ["red" , "yellow" , "green"]
+
+// var color = prompt("What color you wants to add to the end ") 
+
+// colorName.push(color)
+
+// console.log(colorName)
+
+
+
+
+//  var colorName = ["red" , "yellow" , "green"]
+
+// var color = prompt("add first color") 
+// var color2 = prompt("add second color") 
+
+
+// colorName.splice(0,0, color, color2)
+
+// console.log(colorName);
+
+
+//  var colorName = ["red" , "yellow" , "green"]
+
+
+// colorName.shift(1)
+
+// console.log(colorName);
+
+
+// var colorName = ["red" , "yellow" , "green"]
+
+
+// colorName.pop(1)
+
+// console.log(colorName);
+
+
+
+
+//  var colorName = ["red" , "yellow" , "green"]
+
+// var index = +prompt("enter your index") 
+// var color2 = prompt("enter your color") 
+
+// colorName.splice(index,0 ,  color2)
+
+
+// console.log(colorName)
+
+
+
+// var colorName = ["red" , "yellow" , "green"]
+
+// var index = prompt("enter your index") 
+// // var color2 = prompt("enter your color") 
+
+// colorName.splice(index,1)
+
+
+// console.log(colorName)
+
+
+
+
+
+
+
+
+
+
+
+
 
 // // Initialize an array with city names
 // let cities = ["karachi", "peshawar","quetta", "islamabad", "lahore"];
