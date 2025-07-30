@@ -177,6 +177,46 @@
 
 
 
+// var queue = [];
+
+// queue.push("Apple");
+// queue.push("Banana");
+// queue.push("Cherry");
+
+// console.log(queue.shift()); 
+// console.log(queue.shift()); 
+// console.log(queue.shift()); 
+
+
+// var stack = [];
+
+// stack.push("Apple");
+// stack.push("Banana");
+// stack.push("Cherry");
+
+// console.log(stack.pop()); 
+// console.log(stack.pop());
+// console.log(stack.pop()); 
+
+
+
+
+// // Phone manufacturers array
+// var manufacturers = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
+
+// // Start dropdown
+// document.write("<select>");
+
+// // Add options using loop
+// for (var i = 0; i < manufacturers.length; i++) {
+//     document.write("<option>" + manufacturers[i] + "</option>");
+// }
+
+// // End dropdown
+// document.write("</select>");
+
+
+
 
 
 
